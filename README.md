@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estou estudando: HTML, CSS e JS.
+- 🌱 Estou estudando: HTML5, CSS3 e JS.
 
 <div style="inline_block">
   <a href="https://github.com/MateoSoares">
