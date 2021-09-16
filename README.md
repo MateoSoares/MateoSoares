@@ -2,7 +2,8 @@
 
 
 
-- 🌱 Estou estudando: HTML5, CSS3 e JS.
+- 🌱 Estudando: Python.
+- 🌱 Sei o básico de: HTML5, CSS3 e JavaScript.
 
 <div style="inline_block">
   <a href="https://github.com/MateoSoares">
